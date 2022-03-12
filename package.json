@@ -1,0 +1,24 @@
+{
+  "name": "conditional-class-name",
+  "version": "1.0.0",
+  "description": "make classname conditionally and functionally",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lee-donghyun/conditional-class-name.git"
+  },
+  "keywords": [
+    "conditional",
+    "functional",
+    "classname"
+  ],
+  "author": "lee-donghyun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lee-donghyun/conditional-class-name/issues"
+  },
+  "homepage": "https://github.com/lee-donghyun/conditional-class-name#readme"
+}
